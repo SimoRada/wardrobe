@@ -8,14 +8,6 @@
     android:orientation="vertical"
     tools:context=".ui.welcome.LoginActivity">
 
-    <Button
-        android:id="@+id/textButtonlog"
-        style="@style/Widget.Material3.Button.TextButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="left"
-        android:text="@string/backlogin" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
@@ -92,6 +84,13 @@
         android:layout_marginEnd="70dp"
         android:text="@string/SignupButton" />
 
+    <Button
+        android:id="@+id/textButtonlog"
+        style="@style/Widget.Material3.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/backlogin" />
 
 
 </LinearLayout>

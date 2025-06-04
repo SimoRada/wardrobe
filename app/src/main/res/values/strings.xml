@@ -8,7 +8,7 @@
     <string name="surname">Surname</string>
     <string name="password">Password</string>
     <string name="reg">Sign Up</string>
-    <string name="backlogin">Back to Login</string>
+    <string name="backlogin"><u>Back to Login</u></string>
     <string name="passwordForgotten">did you forget the password?</string>
     <string name="loginButton">login</string>
     <string name="exampleMail">example@email.com</string>
