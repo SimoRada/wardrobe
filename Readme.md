@@ -67,15 +67,6 @@ Potential features planned for future releases:
 
 ---
 
-## 👥 The Team
-
-- **Simone Radaelli**
-- Raouf Namane
-- Nicholas Azzini
-- Andrea Ranieri
-
----
-
 ## 📌 Conclusion
 
 Wordrobe was a pivotal project that provided hands-on experience in:
